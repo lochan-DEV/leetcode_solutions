@@ -15,23 +15,23 @@ Tracking my problem-solving journey.
 
 ##  Topics and number of problems solved
 
-# Arrays - 2
+- Arrays - 2
   
-# Strings - 0
+- Strings - 0
  
-# Linked List - 0
+- Linked List - 0
 
-# Stack - 0 
+- Stack - 0 
  
-# Queue - 0
+- Queue - 0
   
-# Recursion - 0
+- Recursion - 0
 
-# Binary Search - 0
+- Binary Search - 0
 
-# Trees - 0
+- Trees - 0
 
-# Graphs - 0
+- Graphs - 0
  
 
 ---------------------------------------------------------------
