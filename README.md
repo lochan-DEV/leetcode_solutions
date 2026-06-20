@@ -6,8 +6,8 @@ Tracking my problem-solving journey.
 
 ##  Progress
 
-- Total Solved: 2 
-- Easy: 2 
+- Total Solved: 3
+- Easy: 3
 - Medium: 0  
 - Hard: 0  
 
@@ -17,7 +17,7 @@ Tracking my problem-solving journey.
 
 - Arrays - 2
   
-- Strings - 0
+- Strings - 1
  
 - Linked List - 0
 
