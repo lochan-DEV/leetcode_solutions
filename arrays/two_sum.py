@@ -2,7 +2,7 @@
 # Difficulty: Easy
 # Topic: Arrays
 
-# Approach (Brute Force):
+# Approach:
 # Check every pair of elements
 # If sum equals target → return indices
 
